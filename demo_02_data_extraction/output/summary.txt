@@ -1,0 +1,26 @@
+============================================================
+  DATA EXTRACTION WORKFLOW — SUMMARY REPORT
+============================================================
+
+  Run timestamp : 2026-03-13 21:10:04 UTC
+  Data source   : REST Countries API (restcountries.com/v3.1/region/...)
+  Records found : 245
+
+  --- Global Insights ---
+  Total world population  : 8,019,493,760
+  Average country area    : 556,112.7 km²
+  Most populous country   : India (1,417,492,000)
+
+  --- Countries per Region ---
+    Africa                 59 countries
+    Americas               56 countries
+    Europe                 53 countries
+    Asia                   50 countries
+    Oceania                27 countries
+
+  --- Output Files ---
+  extracted_data.csv  — full structured dataset
+  summary.txt         — this report
+  chart.png           — top 15 countries by population
+
+============================================================

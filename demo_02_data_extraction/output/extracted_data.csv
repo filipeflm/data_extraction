@@ -1,0 +1,246 @@
+Country,Official Name,Region,Subregion,Capital,Population,Area (km²),Currencies,Languages,Timezones,Independent
+India,Republic of India,Asia,Southern Asia,New Delhi,1417492000,3287263.0,Indian rupee (INR),"English, Hindi, Tamil",UTC+05:30,True
+China,People's Republic of China,Asia,Eastern Asia,Beijing,1408280000,9706961.0,Chinese yuan (CNY),Chinese,UTC+08:00,True
+United States,United States of America,Americas,North America,"Washington, D.C.",340110988,9525067.0,United States dollar (USD),English,"UTC-12:00, UTC-11:00, UTC-10:00, UTC-09:00, UTC-08:00, UTC-07:00, UTC-06:00, UTC-05:00, UTC-04:00, UTC+10:00, UTC+12:00",True
+Indonesia,Republic of Indonesia,Asia,South-Eastern Asia,Jakarta,284438782,1904569.0,Indonesian rupiah (IDR),Indonesian,"UTC+07:00, UTC+08:00, UTC+09:00",True
+Pakistan,Islamic Republic of Pakistan,Asia,Southern Asia,Islamabad,241499431,796095.0,Pakistani rupee (PKR),"English, Urdu",UTC+05:00,True
+Nigeria,Federal Republic of Nigeria,Africa,Western Africa,Abuja,223800000,923768.0,Nigerian naira (NGN),English,UTC+01:00,True
+Brazil,Federative Republic of Brazil,Americas,South America,Brasília,213421037,8515767.0,Brazilian real (BRL),Portuguese,"UTC-05:00, UTC-04:00, UTC-03:00, UTC-02:00",True
+Bangladesh,People's Republic of Bangladesh,Asia,Southern Asia,Dhaka,169828911,147570.0,Bangladeshi taka (BDT),Bengali,UTC+06:00,True
+Russia,Russian Federation,Europe,Eastern Europe,Moscow,146028325,17098246.0,Russian ruble (RUB),Russian,"UTC+03:00, UTC+04:00, UTC+06:00, UTC+07:00, UTC+08:00, UTC+09:00, UTC+10:00, UTC+11:00, UTC+12:00",True
+Mexico,United Mexican States,Americas,North America,Mexico City,130575786,1964375.0,Mexican peso (MXN),Spanish,"UTC-08:00, UTC-07:00, UTC-06:00",True
+Japan,Japan,Asia,Eastern Asia,Tokyo,123210000,377930.0,Japanese yen (JPY),Japanese,UTC+09:00,True
+Philippines,Republic of the Philippines,Asia,South-Eastern Asia,Manila,114123600,342353.0,Philippine peso (PHP),"English, Filipino",UTC+08:00,True
+DR Congo,Democratic Republic of the Congo,Africa,Middle Africa,Kinshasa,112832000,2344858.0,Congolese franc (CDF),"French, Kikongo, Lingala, Swahili, Tshiluba","UTC+01:00, UTC+02:00",True
+Ethiopia,Federal Democratic Republic of Ethiopia,Africa,Eastern Africa,Addis Ababa,111652998,1104300.0,Ethiopian birr (ETB),Amharic,UTC+03:00,True
+Egypt,Arab Republic of Egypt,Africa,Northern Africa,Cairo,107271260,1002450.0,Egyptian pound (EGP),Arabic,UTC+02:00,True
+Vietnam,Socialist Republic of Vietnam,Asia,South-Eastern Asia,Hanoi,101343800,331212.0,Vietnamese đồng (VND),Vietnamese,UTC+07:00,True
+Iran,Islamic Republic of Iran,Asia,Southern Asia,Tehran,85961000,1648195.0,Iranian rial (IRR),Persian (Farsi),UTC+03:30,True
+Turkey,Republic of Turkey,Asia,Western Asia,Ankara,85664944,783562.0,Turkish lira (TRY),Turkish,UTC+03:00,True
+Germany,Federal Republic of Germany,Europe,Western Europe,Berlin,83491249,357114.0,euro (EUR),German,UTC+01:00,True
+United Kingdom,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,London,69281437,244376.0,British pound (GBP),English,"UTC-08:00, UTC-05:00, UTC-04:00, UTC-03:00, UTC-02:00, UTC, UTC+01:00, UTC+02:00, UTC+06:00",True
+Tanzania,United Republic of Tanzania,Africa,Eastern Africa,Dodoma,68153004,947303.0,Tanzanian shilling (TZS),"English, Swahili",UTC+03:00,True
+France,French Republic,Europe,Western Europe,Paris,66351959,543908.0,euro (EUR),French,"UTC-10:00, UTC-09:30, UTC-09:00, UTC-08:00, UTC-04:00, UTC-03:00, UTC+01:00, UTC+02:00, UTC+03:00, UTC+04:00, UTC+05:00, UTC+10:00, UTC+11:00, UTC+12:00",True
+Thailand,Kingdom of Thailand,Asia,South-Eastern Asia,Bangkok,65859640,513120.0,Thai baht (THB),Thai,UTC+07:00,True
+South Africa,Republic of South Africa,Africa,Southern Africa,Pretoria,63100945,1221037.0,South African rand (ZAR),"Afrikaans, English, Northern Sotho, Southern Ndebele, Southern Sotho, Swazi, Tsonga, Tswana, Venda, Xhosa, Zulu",UTC+02:00,True
+Italy,Italian Republic,Europe,Southern Europe,Rome,58927633,301336.0,euro (EUR),"Catalan, Italian",UTC+01:00,True
+Kenya,Republic of Kenya,Africa,Eastern Africa,Nairobi,53330978,580367.0,Kenyan shilling (KES),"English, Swahili",UTC+03:00,True
+Colombia,Republic of Colombia,Americas,South America,Bogotá,53057212,1141748.0,Colombian peso (COP),Spanish,UTC-05:00,True
+Sudan,Republic of the Sudan,Africa,Northern Africa,Khartoum,51662000,1886068.0,Sudanese pound (SDG),"Arabic, English",UTC+03:00,True
+Myanmar,Republic of the Union of Myanmar,Asia,South-Eastern Asia,Naypyidaw,51316756,676578.0,Burmese kyat (MMK),Burmese,UTC+06:30,True
+South Korea,Republic of Korea,Asia,Eastern Asia,Seoul,51159889,100210.0,South Korean won (KRW),Korean,UTC+09:00,True
+Spain,Kingdom of Spain,Europe,Southern Europe,Madrid,49315949,505992.0,euro (EUR),"Basque, Catalan, Galician, Spanish","UTC, UTC+01:00",True
+Algeria,People's Democratic Republic of Algeria,Africa,Northern Africa,Algiers,47400000,2381741.0,Algerian dinar (DZD),Arabic,UTC+01:00,True
+Argentina,Argentine Republic,Americas,South America,Buenos Aires,46735004,2780400.0,Argentine peso (ARS),"Guaraní, Spanish",UTC-03:00,True
+Iraq,Republic of Iraq,Asia,Western Asia,Baghdad,46118793,438317.0,Iraqi dinar (IQD),"Arabic, Aramaic, Sorani",UTC+03:00,True
+Uganda,Republic of Uganda,Africa,Eastern Africa,Kampala,45905417,241550.0,Ugandan shilling (UGX),"English, Swahili",UTC+03:00,True
+Afghanistan,Islamic Republic of Afghanistan,Asia,Southern Asia,Kabul,43844000,652230.0,Afghan afghani (AFN),"Dari, Pashto, Turkmen",UTC+04:30,True
+Canada,Canada,Americas,North America,Ottawa,41651653,9984670.0,Canadian dollar (CAD),"English, French","UTC-08:00, UTC-07:00, UTC-06:00, UTC-05:00, UTC-04:00, UTC-03:30",True
+Uzbekistan,Republic of Uzbekistan,Asia,Central Asia,Tashkent,37859698,447400.0,Uzbekistani soʻm (UZS),"Russian, Uzbek",UTC+05:00,True
+Poland,Republic of Poland,Europe,Central Europe,Warsaw,37392000,312679.0,Polish złoty (PLN),Polish,UTC+01:00,True
+Morocco,Kingdom of Morocco,Africa,Northern Africa,Rabat,36828330,446550.0,Moroccan dirham (MAD),"Arabic, Berber",UTC,True
+Angola,Republic of Angola,Africa,Middle Africa,Luanda,36170961,1246700.0,Angolan kwanza (AOA),Portuguese,UTC+01:00,True
+Saudi Arabia,Kingdom of Saudi Arabia,Asia,Western Asia,Riyadh,35300280,2149690.0,Saudi riyal (SAR),Arabic,UTC+03:00,True
+Peru,Republic of Peru,Americas,South America,Lima,34350244,1285216.0,Peruvian sol (PEN),"Aymara, Quechua, Spanish",UTC-05:00,True
+Malaysia,Malaysia,Asia,South-Eastern Asia,Kuala Lumpur,34231700,330803.0,Malaysian ringgit (MYR),"English, Malay",UTC+08:00,True
+Mozambique,Republic of Mozambique,Africa,Eastern Africa,Maputo,34090466,801590.0,Mozambican metical (MZN),Portuguese,UTC+02:00,True
+Ghana,Republic of Ghana,Africa,Western Africa,Accra,33742380,238533.0,Ghanaian cedi (GHS),English,UTC,True
+Ukraine,Ukraine,Europe,Eastern Europe,Kyiv,32862000,603550.0,Ukrainian hryvnia (UAH),Ukrainian,UTC+02:00,True
+Yemen,Republic of Yemen,Asia,Western Asia,Sana'a,32684503,527968.0,Yemeni rial (YER),Arabic,UTC+03:00,True
+Madagascar,Republic of Madagascar,Africa,Eastern Africa,Antananarivo,31727042,587041.0,Malagasy ariary (MGA),"French, Malagasy",UTC+03:00,True
+Ivory Coast,Republic of Côte d'Ivoire,Africa,Western Africa,Yamoussoukro,31719275,322463.0,West African CFA franc (XOF),French,UTC,True
+Nepal,Federal Democratic Republic of Nepal,Asia,Southern Asia,Kathmandu,29911840,147181.0,Nepalese rupee (NPR),Nepali,UTC+05:45,True
+Cameroon,Republic of Cameroon,Africa,Middle Africa,Yaoundé,29442327,475442.0,Central African CFA franc (XAF),"English, French",UTC+01:00,True
+Venezuela,Bolivarian Republic of Venezuela,Americas,South America,Caracas,28517000,916445.0,Venezuelan bolívar soberano (VES),Spanish,UTC-04:00,True
+Australia,Commonwealth of Australia,Oceania,Australia and New Zealand,Canberra,27536874,7692024.0,Australian dollar (AUD),English,"UTC+05:00, UTC+06:30, UTC+07:00, UTC+08:00, UTC+09:30, UTC+10:00, UTC+10:30, UTC+11:30",True
+Niger,Republic of Niger,Africa,Western Africa,Niamey,26312034,1267000.0,West African CFA franc (XOF),French,UTC+01:00,True
+North Korea,Democratic People's Republic of Korea,Asia,Eastern Asia,Pyongyang,25950000,120538.0,North Korean won (KPW),Korean,UTC+09:00,True
+Syria,Syrian Arab Republic,Asia,Western Asia,Damascus,25620000,185180.0,Syrian pound (SYP),Arabic,UTC+02:00,True
+Burkina Faso,Burkina Faso,Africa,Western Africa,Ouagadougou,24070553,272967.0,West African CFA franc (XOF),French,UTC,True
+Taiwan,Republic of China (Taiwan),Asia,Eastern Asia,Taipei,23317031,36197.0,New Taiwan dollar (TWD),Chinese,UTC+08:00,False
+Mali,Republic of Mali,Africa,Western Africa,Bamako,22395489,1240192.0,West African CFA franc (XOF),French,UTC,True
+Sri Lanka,Democratic Socialist Republic of Sri Lanka,Asia,Southern Asia,Sri Jayawardenepura Kotte,21763170,65610.0,Sri Lankan rupee (LKR),"Sinhala, Tamil",UTC+05:30,True
+Malawi,Republic of Malawi,Africa,Eastern Africa,Lilongwe,20734262,118484.0,Malawian kwacha (MWK),"Chewa, English",UTC+02:00,True
+Kazakhstan,Republic of Kazakhstan,Asia,Central Asia,Astana,20426568,2724900.0,Kazakhstani tenge (KZT),"Kazakh, Russian","UTC+05:00, UTC+06:00",True
+Chile,Republic of Chile,Americas,South America,Santiago,20206953,756102.0,Chilean peso (CLP),Spanish,"UTC-06:00, UTC-04:00",True
+Zambia,Republic of Zambia,Africa,Eastern Africa,Lusaka,19693423,752612.0,Zambian kwacha (ZMW),English,UTC+02:00,True
+Somalia,Federal Republic of Somalia,Africa,Eastern Africa,Mogadishu,19655000,637657.0,Somali shilling (SOS),"Arabic, Somali",UTC+03:00,True
+Chad,Republic of Chad,Africa,Middle Africa,N'Djamena,19340757,1284000.0,Central African CFA franc (XAF),"Arabic, French",UTC+01:00,True
+Romania,Romania,Europe,Southeast Europe,Bucharest,19036031,238391.0,Romanian leu (RON),Romanian,UTC+02:00,True
+Senegal,Republic of Senegal,Africa,Western Africa,Dakar,18593258,196722.0,West African CFA franc (XOF),French,UTC,True
+Ecuador,Republic of Ecuador,Americas,South America,Quito,18103660,276841.0,United States dollar (USD),Spanish,"UTC-06:00, UTC-05:00",True
+Netherlands,Kingdom of the Netherlands,Europe,Western Europe,Amsterdam,18100436,41865.0,euro (EUR),Dutch,UTC+01:00,True
+Guatemala,Republic of Guatemala,Americas,Central America,Guatemala City,18079810,108889.0,Guatemalan quetzal (GTQ),Spanish,UTC-06:00,True
+Cambodia,Kingdom of Cambodia,Asia,South-Eastern Asia,Phnom Penh,17577760,181035.0,"Cambodian riel (KHR), United States dollar (USD)",Khmer,UTC+07:00,True
+Zimbabwe,Republic of Zimbabwe,Africa,Southern Africa,Harare,17073087,390757.0,Zimbabwean dollar (ZWL),"Chewa, Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Shona, Sotho, Tonga, Tsonga, Tswana, Venda, Xhosa, Zimbabwean Sign Language",UTC+02:00,True
+South Sudan,Republic of South Sudan,Africa,Middle Africa,Juba,15786898,619745.0,South Sudanese pound (SSP),English,UTC+03:00,True
+Guinea,Republic of Guinea,Africa,Western Africa,Conakry,14363931,245857.0,Guinean franc (GNF),French,UTC,True
+Rwanda,Republic of Rwanda,Africa,Eastern Africa,Kigali,14104969,26338.0,Rwandan franc (RWF),"English, French, Kinyarwanda",UTC+02:00,True
+Benin,Republic of Benin,Africa,Western Africa,Porto-Novo,13224860,112622.0,West African CFA franc (XOF),French,UTC+01:00,True
+Burundi,Republic of Burundi,Africa,Eastern Africa,Gitega,12332788,27834.0,Burundian franc (BIF),"French, Kirundi",UTC+02:00,True
+Tunisia,Tunisian Republic,Africa,Northern Africa,Tunis,11972169,163610.0,Tunisian dinar (TND),Arabic,UTC+01:00,True
+Haiti,Republic of Haiti,Americas,Caribbean,Port-au-Prince,11867032,27750.0,Haitian gourde (HTG),"French, Haitian Creole",UTC-05:00,True
+Belgium,Kingdom of Belgium,Europe,Western Europe,Brussels,11825551,30528.0,euro (EUR),"Dutch, French, German",UTC+01:00,True
+Papua New Guinea,Independent State of Papua New Guinea,Oceania,Melanesia,Port Moresby,11781559,462840.0,Papua New Guinean kina (PGK),"English, Hiri Motu, Tok Pisin",UTC+10:00,True
+Jordan,Hashemite Kingdom of Jordan,Asia,Western Asia,Amman,11734000,89342.0,Jordanian dinar (JOD),Arabic,UTC+03:00,True
+Bolivia,Plurinational State of Bolivia,Americas,South America,Sucre,11365333,1098581.0,Bolivian boliviano (BOB),"Aymara, Guaraní, Quechua, Spanish",UTC-04:00,True
+United Arab Emirates,United Arab Emirates,Asia,Western Asia,Abu Dhabi,11294243,83600.0,United Arab Emirates dirham (AED),Arabic,UTC+04:00,True
+Czechia,Czech Republic,Europe,Central Europe,Prague,10882341,78865.0,Czech koruna (CZK),"Czech, Slovak",UTC+01:00,True
+Dominican Republic,Dominican Republic,Americas,Caribbean,Santo Domingo,10771504,48671.0,Dominican peso (DOP),Spanish,UTC-04:00,True
+Portugal,Portuguese Republic,Europe,Southern Europe,Lisbon,10749635,92090.0,euro (EUR),Portuguese,"UTC-01:00, UTC",True
+Sweden,Kingdom of Sweden,Europe,Northern Europe,Stockholm,10605098,450295.0,Swedish krona (SEK),Swedish,UTC+01:00,True
+Tajikistan,Republic of Tajikistan,Asia,Central Asia,Dushanbe,10499000,143100.0,Tajikistani somoni (TJS),"Russian, Tajik",UTC+05:00,True
+Greece,Hellenic Republic,Europe,Southern Europe,Athens,10400720,131990.0,euro (EUR),Greek,UTC+02:00,True
+Azerbaijan,Republic of Azerbaijan,Asia,Western Asia,Baku,10241722,86600.0,Azerbaijani manat (AZN),Azerbaijani,UTC+04:00,True
+Israel,State of Israel,Asia,Western Asia,Jerusalem,10134800,21937.0,Israeli new shekel (ILS),"Arabic, Hebrew",UTC+02:00,True
+Honduras,Republic of Honduras,Americas,Central America,Tegucigalpa,9892632,112492.0,Honduran lempira (HNL),Spanish,UTC-06:00,True
+Cuba,Republic of Cuba,Americas,Caribbean,Havana,9748007,109884.0,"Cuban convertible peso (CUC), Cuban peso (CUP)",Spanish,UTC-05:00,True
+Hungary,Hungary,Europe,Central Europe,Budapest,9539502,93028.0,Hungarian forint (HUF),Hungarian,UTC+01:00,True
+Austria,Republic of Austria,Europe,Central Europe,Vienna,9200931,83871.0,euro (EUR),German,UTC+01:00,True
+Belarus,Republic of Belarus,Europe,Eastern Europe,Minsk,9109280,207600.0,Belarusian ruble (BYN),"Belarusian, Russian",UTC+03:00,True
+Switzerland,Swiss Confederation,Europe,Western Europe,Bern,9082848,41284.0,Swiss franc (CHF),"French, Italian, Romansh, Swiss German",UTC+01:00,True
+Sierra Leone,Republic of Sierra Leone,Africa,Western Africa,Freetown,9077691,71740.0,Leone (SLE),English,UTC,True
+Togo,Togolese Republic,Africa,Western Africa,Lomé,8095498,56785.0,West African CFA franc (XOF),French,UTC,True
+Laos,Lao People's Democratic Republic,Asia,South-Eastern Asia,Vientiane,7647000,236800.0,Lao kip (LAK),Lao,UTC+07:00,True
+Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,Asia,Eastern Asia,City of Victoria,7527500,1104.0,Hong Kong dollar (HKD),"Chinese, English",UTC+08:00,False
+Libya,State of Libya,Africa,Northern Africa,Tripoli,7459000,1759540.0,Libyan dinar (LYD),Arabic,UTC+01:00,True
+Kyrgyzstan,Kyrgyz Republic,Asia,Central Asia,Bishkek,7281800,199951.0,Kyrgyzstani som (KGS),"Kyrgyz, Russian",UTC+06:00,True
+Turkmenistan,Turkmenistan,Asia,Central Asia,Ashgabat,7057841,488100.0,Turkmenistan manat (TMT),"Russian, Turkmen",UTC+05:00,True
+Nicaragua,Republic of Nicaragua,Americas,Central America,Managua,6803886,130373.0,Nicaraguan córdoba (NIO),Spanish,UTC-06:00,True
+Serbia,Republic of Serbia,Europe,Southeast Europe,Belgrade,6567783,77589.0,Serbian dinar (RSD),Serbian,UTC+01:00,True
+Central African Republic,Central African Republic,Africa,Middle Africa,Bangui,6470307,622984.0,Central African CFA franc (XAF),"French, Sango",UTC+01:00,True
+Bulgaria,Republic of Bulgaria,Europe,Southeast Europe,Sofia,6437360,110879.0,Bulgarian lev (BGN),Bulgarian,UTC+02:00,True
+Republic of the Congo,Republic of the Congo,Africa,Middle Africa,Brazzaville,6142180,342000.0,Central African CFA franc (XAF),"French, Kikongo, Lingala",UTC+01:00,True
+Singapore,Republic of Singapore,Asia,South-Eastern Asia,Singapore,6110200,710.0,Singapore dollar (SGD),"Chinese, English, Malay, Tamil",UTC+08:00,True
+Paraguay,Republic of Paraguay,Americas,South America,Asunción,6109644,406752.0,Paraguayan guaraní (PYG),"Guaraní, Spanish",UTC-04:00,True
+El Salvador,Republic of El Salvador,Americas,Central America,San Salvador,6029976,21041.0,United States dollar (USD),Spanish,UTC-06:00,True
+Denmark,Kingdom of Denmark,Europe,Northern Europe,Copenhagen,6011488,43094.0,Danish krone (DKK),Danish,"UTC-04:00, UTC-03:00, UTC-01:00, UTC, UTC+01:00",True
+Finland,Republic of Finland,Europe,Northern Europe,Helsinki,5650325,338455.0,euro (EUR),"Finnish, Swedish",UTC+02:00,True
+Norway,Kingdom of Norway,Europe,Northern Europe,Oslo,5606944,386224.0,Norwegian krone (NOK),"Norwegian Bokmål, Norwegian Nynorsk, Sami",UTC+01:00,True
+Lebanon,Lebanese Republic,Asia,Western Asia,Beirut,5490000,10452.0,Lebanese pound (LBP),"Arabic, French",UTC+02:00,True
+Palestine,State of Palestine,Asia,Western Asia,Ramallah,5483450,6220.0,"Egyptian pound (EGP), Israeli new shekel (ILS), Jordanian dinar (JOD)",Arabic,UTC+02:00,False
+Ireland,Republic of Ireland,Europe,Northern Europe,Dublin,5458600,70273.0,euro (EUR),"English, Irish",UTC,True
+Slovakia,Slovak Republic,Europe,Central Europe,Bratislava,5413813,49037.0,euro (EUR),Slovak,UTC+01:00,True
+Oman,Sultanate of Oman,Asia,Western Asia,Muscat,5343630,309500.0,Omani rial (OMR),Arabic,UTC+04:00,True
+New Zealand,New Zealand,Oceania,Australia and New Zealand,Wellington,5324700,268838.0,New Zealand dollar (NZD),"English, Māori, New Zealand Sign Language","UTC-11:00, UTC-10:00, UTC+12:00, UTC+12:45, UTC+13:00",True
+Costa Rica,Republic of Costa Rica,Americas,Central America,San José,5309625,51100.0,Costa Rican colón (CRC),Spanish,UTC-06:00,True
+Liberia,Republic of Liberia,Africa,Western Africa,Monrovia,5248621,111369.0,Liberian dollar (LRD),English,UTC,True
+Mauritania,Islamic Republic of Mauritania,Africa,Western Africa,Nouakchott,4927532,1030700.0,Mauritanian ouguiya (MRU),Arabic,UTC,True
+Kuwait,State of Kuwait,Asia,Western Asia,Kuwait City,4881254,17818.0,Kuwaiti dinar (KWD),Arabic,UTC+03:00,True
+Panama,Republic of Panama,Americas,Central America,Panama City,4064780,75417.0,"Panamanian balboa (PAB), United States dollar (USD)",Spanish,UTC-05:00,True
+Georgia,Georgia,Asia,Western Asia,Tbilisi,4000921,69700.0,lari (GEL),Georgian,UTC+04:00,True
+Croatia,Republic of Croatia,Europe,Southeast Europe,Zagreb,3866233,56594.0,euro (EUR),Croatian,UTC+01:00,True
+Eritrea,State of Eritrea,Africa,Eastern Africa,Asmara,3607000,117600.0,Eritrean nakfa (ERN),"Arabic, English, Tigrinya",UTC+03:00,True
+Mongolia,Mongolia,Asia,Eastern Asia,Ulan Bator,3544835,1564110.0,Mongolian tögrög (MNT),Mongolian,"UTC+07:00, UTC+08:00",True
+Uruguay,Oriental Republic of Uruguay,Americas,South America,Montevideo,3499451,181034.0,Uruguayan peso (UYU),Spanish,UTC-03:00,True
+Bosnia and Herzegovina,Bosnia and Herzegovina,Europe,Southeast Europe,Sarajevo,3422000,51209.0,Bosnia and Herzegovina convertible mark (BAM),"Bosnian, Croatian, Serbian",UTC+01:00,True
+Puerto Rico,Commonwealth of Puerto Rico,Americas,Caribbean,San Juan,3203295,8870.0,United States dollar (USD),"English, Spanish",UTC-04:00,False
+Qatar,State of Qatar,Asia,Western Asia,Doha,3173024,11586.0,Qatari riyal (QAR),Arabic,UTC+03:00,True
+Armenia,Republic of Armenia,Asia,Western Asia,Yerevan,3076200,29743.0,Armenian dram (AMD),Armenian,UTC+04:00,True
+Namibia,Republic of Namibia,Africa,Southern Africa,Windhoek,3022401,825615.0,"Namibian dollar (NAD), South African rand (ZAR)","Afrikaans, English, German, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana",UTC+01:00,True
+Lithuania,Republic of Lithuania,Europe,Northern Europe,Vilnius,2894886,65300.0,euro (EUR),Lithuanian,UTC+02:00,True
+Jamaica,Jamaica,Americas,Caribbean,Kingston,2825544,10991.0,Jamaican dollar (JMD),"English, Jamaican Patois",UTC-05:00,True
+Moldova,Republic of Moldova,Europe,Eastern Europe,Chișinău,2749076,33847.0,Moldovan leu (MDL),Romanian,UTC+02:00,True
+Gabon,Gabonese Republic,Africa,Middle Africa,Libreville,2469296,267668.0,Central African CFA franc (XAF),French,UTC+01:00,True
+Gambia,Republic of the Gambia,Africa,Western Africa,Banjul,2422712,10689.0,dalasi (GMD),English,UTC+00:00,True
+Albania,Republic of Albania,Europe,Southeast Europe,Tirana,2363314,28748.0,Albanian lek (ALL),Albanian,UTC+01:00,True
+Botswana,Republic of Botswana,Africa,Southern Africa,Gaborone,2359609,582000.0,Botswana pula (BWP),"English, Tswana",UTC+02:00,True
+Slovenia,Republic of Slovenia,Europe,Central Europe,Ljubljana,2130638,20273.0,euro (EUR),Slovene,UTC+01:00,True
+Lesotho,Kingdom of Lesotho,Africa,Southern Africa,Maseru,2116427,30355.0,"Lesotho loti (LSL), South African rand (ZAR)","English, Sotho",UTC+02:00,True
+Latvia,Republic of Latvia,Europe,Northern Europe,Riga,1829000,64559.0,euro (EUR),Latvian,UTC+02:00,True
+North Macedonia,Republic of North Macedonia,Europe,Southeast Europe,Skopje,1822612,25713.0,denar (MKD),Macedonian,UTC+01:00,True
+Guinea-Bissau,Republic of Guinea-Bissau,Africa,Western Africa,Bissau,1781308,36125.0,West African CFA franc (XOF),"Portuguese, Upper Guinea Creole",UTC,True
+Equatorial Guinea,Republic of Equatorial Guinea,Africa,Middle Africa,Ciudad de la Paz,1668768,28051.0,Central African CFA franc (XAF),"French, Portuguese, Spanish",UTC+01:00,True
+Bahrain,Kingdom of Bahrain,Asia,Western Asia,Manama,1594654,765.0,Bahraini dinar (BHD),Arabic,UTC+03:00,True
+Kosovo,Republic of Kosovo,Europe,Southeast Europe,Pristina,1585566,10908.0,euro (EUR),"Albanian, Serbian",UTC+01:00,True
+Cyprus,Republic of Cyprus,Europe,Southern Europe,Nicosia,1442614,9251.0,euro (EUR),"Greek, Turkish",UTC+02:00,True
+Timor-Leste,Democratic Republic of Timor-Leste,Asia,South-Eastern Asia,Dili,1391221,14874.0,United States dollar (USD),"Portuguese, Tetum",UTC+09:00,True
+Estonia,Republic of Estonia,Europe,Northern Europe,Tallinn,1369995,45227.0,euro (EUR),Estonian,UTC+02:00,True
+Trinidad and Tobago,Republic of Trinidad and Tobago,Americas,Caribbean,Port of Spain,1367764,5130.0,Trinidad and Tobago dollar (TTD),English,UTC-04:00,True
+Mauritius,Republic of Mauritius,Africa,Eastern Africa,Port Louis,1243741,2040.0,Mauritian rupee (MUR),"English, French, Mauritian Creole",UTC+04:00,True
+Eswatini,Kingdom of Eswatini,Africa,Southern Africa,Mbabane,1235549,17364.0,"Swazi lilangeni (SZL), South African rand (ZAR)","English, Swazi",UTC+02:00,True
+Djibouti,Republic of Djibouti,Africa,Eastern Africa,Djibouti,1066809,23200.0,Djiboutian franc (DJF),"Arabic, French",UTC+03:00,True
+Comoros,Union of the Comoros,Africa,Eastern Africa,Moroni,919901,1862.0,Comorian franc (KMF),"Arabic, Comorian, French",UTC+03:00,True
+Fiji,Republic of Fiji,Oceania,Melanesia,Suva,900869,18272.0,Fijian dollar (FJD),"English, Fiji Hindi, Fijian",UTC+12:00,True
+Réunion,Réunion Island,Africa,Eastern Africa,Saint-Denis,896175,2511.0,euro (EUR),French,UTC+04:00,False
+Bhutan,Kingdom of Bhutan,Asia,Southern Asia,Thimphu,784043,38394.0,"Bhutanese ngultrum (BTN), Indian rupee (INR)",Dzongkha,UTC+06:00,True
+Guyana,Co-operative Republic of Guyana,Americas,South America,Georgetown,772975,214969.0,Guyanese dollar (GYD),English,UTC-04:00,True
+Solomon Islands,Solomon Islands,Oceania,Melanesia,Honiara,750325,28896.0,Solomon Islands dollar (SBD),English,UTC+11:00,True
+Macau,Macao Special Administrative Region of the People's Republic of China,Asia,Eastern Asia,N/A,685900,30.0,Macanese pataca (MOP),"Chinese, Portuguese",UTC+08:00,False
+Luxembourg,Grand Duchy of Luxembourg,Europe,Western Europe,Luxembourg,681973,2586.0,euro (EUR),"French, German, Luxembourgish",UTC+01:00,True
+Montenegro,Montenegro,Europe,Southeast Europe,Podgorica,623327,13812.0,euro (EUR),Montenegrin,UTC+01:00,True
+Suriname,Republic of Suriname,Americas,South America,Paramaribo,616500,163820.0,Surinamese dollar (SRD),Dutch,UTC-03:00,True
+Western Sahara,Sahrawi Arab Democratic Republic,Africa,Northern Africa,El Aaiún,600904,266000.0,"Algerian dinar (DZD), Moroccan dirham (MAD), Mauritanian ouguiya (MRU)","Berber, Hassaniya, Spanish",UTC+00:00,False
+Malta,Republic of Malta,Europe,Southern Europe,Valletta,574250,316.0,euro (EUR),"English, Maltese",UTC+01:00,True
+Maldives,Republic of the Maldives,Asia,Southern Asia,Malé,515132,300.0,Maldivian rufiyaa (MVR),Maldivian,UTC+05:00,True
+Cape Verde,Republic of Cabo Verde,Africa,Western Africa,Praia,491233,4033.0,Cape Verdean escudo (CVE),Portuguese,UTC-01:00,True
+Brunei,"Nation of Brunei, Abode of Peace",Asia,South-Eastern Asia,Bandar Seri Begawan,455500,5765.0,"Brunei dollar (BND), Singapore dollar (SGD)",Malay,UTC+08:00,True
+Belize,Belize,Americas,Central America,Belmopan,417634,22966.0,Belize dollar (BZD),"Belizean Creole, English, Spanish",UTC-06:00,True
+Bahamas,Commonwealth of the Bahamas,Americas,Caribbean,Nassau,398165,13943.0,"Bahamian dollar (BSD), United States dollar (USD)",English,UTC-05:00,True
+Iceland,Iceland,Europe,Northern Europe,Reykjavik,391810,103000.0,Icelandic króna (ISK),Icelandic,UTC,True
+Guadeloupe,Guadeloupe,Americas,Caribbean,Basse-Terre,378561,1628.0,euro (EUR),French,UTC-04:00,False
+Martinique,Martinique,Americas,Caribbean,Fort-de-France,349925,1128.0,euro (EUR),French,UTC-04:00,False
+Vanuatu,Republic of Vanuatu,Oceania,Melanesia,Port Vila,321409,12189.0,Vanuatu vatu (VUV),"Bislama, English, French",UTC+11:00,True
+Mayotte,Department of Mayotte,Africa,Eastern Africa,Mamoudzou,320901,374.0,euro (EUR),French,UTC+03:00,False
+French Guiana,Guiana,Americas,South America,Cayenne,292354,83534.0,euro (EUR),French,UTC-03:00,False
+French Polynesia,French Polynesia,Oceania,Polynesia,Papeetē,279500,4167.0,CFP franc (XPF),French,"UTC-10:00, UTC-09:30, UTC-09:00",False
+Barbados,Barbados,Americas,Caribbean,Bridgetown,267800,430.0,Barbadian dollar (BBD),English,UTC-04:00,True
+New Caledonia,New Caledonia,Oceania,Melanesia,Nouméa,264596,18575.0,CFP franc (XPF),French,UTC+11:00,False
+São Tomé and Príncipe,Democratic Republic of São Tomé and Príncipe,Africa,Middle Africa,São Tomé,209607,964.0,São Tomé and Príncipe dobra (STN),Portuguese,UTC,True
+Samoa,Independent State of Samoa,Oceania,Polynesia,Apia,205557,2842.0,Samoan tālā (WST),"English, Samoan",UTC+13:00,True
+Saint Lucia,Saint Lucia,Americas,Caribbean,Castries,184100,616.0,Eastern Caribbean dollar (XCD),English,UTC-04:00,True
+Curaçao,Country of Curaçao,Americas,Caribbean,Willemstad,156115,444.0,Netherlands Antillean guilder (ANG),"Dutch, English, Papiamento",UTC-04:00,False
+Guam,Guam,Oceania,Micronesia,Hagåtña,153836,549.0,United States dollar (USD),"Chamorro, English, Spanish",UTC+10:00,False
+Seychelles,Republic of Seychelles,Africa,Eastern Africa,Victoria,122729,452.0,Seychellois rupee (SCR),"English, French, Seychellois Creole",UTC+04:00,True
+Kiribati,Independent and Sovereign Republic of Kiribati,Oceania,Micronesia,South Tarawa,120740,811.0,"Australian dollar (AUD), Kiribati dollar (KID)","English, Gilbertese","UTC+12:00, UTC+13:00, UTC+14:00",True
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Americas,Caribbean,Kingstown,110872,389.0,Eastern Caribbean dollar (XCD),English,UTC-04:00,True
+Grenada,Grenada,Americas,Caribbean,St. George's,109021,344.0,Eastern Caribbean dollar (XCD),English,UTC-04:00,True
+Aruba,Aruba,Americas,Caribbean,Oranjestad,107566,180.0,Aruban florin (AWG),"Dutch, Papiamento",UTC-04:00,False
+Micronesia,Federated States of Micronesia,Oceania,Micronesia,Palikir,105564,702.0,United States dollar (USD),English,"UTC+10:00, UTC+11:00",True
+Antigua and Barbuda,Antigua and Barbuda,Americas,Caribbean,Saint John's,103603,442.0,Eastern Caribbean dollar (XCD),English,UTC-04:00,True
+Jersey,Bailiwick of Jersey,Europe,Northern Europe,Saint Helier,103267,116.0,"British pound (GBP), Jersey pound (JEP)","English, French, Jèrriais",UTC+01:00,False
+Tonga,Kingdom of Tonga,Oceania,Polynesia,Nuku'alofa,100179,747.0,Tongan paʻanga (TOP),"English, Tongan",UTC+13:00,True
+Andorra,Principality of Andorra,Europe,Southern Europe,Andorra la Vella,88406,468.0,euro (EUR),Catalan,UTC+01:00,True
+United States Virgin Islands,Virgin Islands of the United States,Americas,Caribbean,Charlotte Amalie,87146,347.0,United States dollar (USD),English,UTC-04:00,False
+Cayman Islands,Cayman Islands,Americas,Caribbean,George Town,84738,264.0,Cayman Islands dollar (KYD),English,UTC-05:00,False
+Isle of Man,Isle of Man,Europe,Northern Europe,Douglas,84530,572.0,"British pound (GBP), Manx pound (IMP)","English, Manx",UTC+00:00,False
+Dominica,Commonwealth of Dominica,Americas,Caribbean,Roseau,67408,751.0,Eastern Caribbean dollar (XCD),English,UTC-04:00,True
+Guernsey,Bailiwick of Guernsey,Europe,Northern Europe,St. Peter Port,64781,78.0,"British pound (GBP), Guernsey pound (GGP)","English, French, Guernésiais",UTC+00:00,False
+Bermuda,Bermuda,Americas,North America,Hamilton,64055,54.0,Bermudian dollar (BMD),English,UTC-04:00,False
+Greenland,Greenland,Americas,North America,Nuuk,56542,2166086.0,krone (DKK),Greenlandic,"UTC-04:00, UTC-03:00, UTC-01:00, UTC+00:00",False
+Faroe Islands,Faroe Islands,Europe,Northern Europe,Tórshavn,54885,1393.0,"Danish krone (DKK), Faroese króna (FOK)","Danish, Faroese",UTC+00:00,False
+Saint Kitts and Nevis,Federation of Saint Christopher and Nevis,Americas,Caribbean,Basseterre,51320,261.0,Eastern Caribbean dollar (XCD),English,UTC-04:00,True
+Turks and Caicos Islands,Turks and Caicos Islands,Americas,Caribbean,Cockburn Town,50828,948.0,United States dollar (USD),English,UTC-04:00,False
+American Samoa,American Samoa,Oceania,Polynesia,Pago Pago,49710,199.0,United States dollar (USD),"English, Samoan",UTC-11:00,False
+Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Oceania,Micronesia,Saipan,47329,464.0,United States dollar (USD),"Carolinian, Chamorro, English",UTC+10:00,False
+Marshall Islands,Republic of the Marshall Islands,Oceania,Micronesia,Majuro,42418,181.0,United States dollar (USD),"English, Marshallese",UTC+12:00,True
+Sint Maarten,Sint Maarten,Americas,Caribbean,Philipsburg,41349,34.0,Netherlands Antillean guilder (ANG),"Dutch, English, French",UTC-04:00,False
+Liechtenstein,Principality of Liechtenstein,Europe,Western Europe,Vaduz,40900,160.0,Swiss franc (CHF),German,UTC+01:00,True
+British Virgin Islands,Virgin Islands,Americas,Caribbean,Road Town,39471,151.0,United States dollar (USD),English,UTC-04:00,False
+Monaco,Principality of Monaco,Europe,Western Europe,Monaco,38423,2.02,euro (EUR),French,UTC+01:00,True
+Gibraltar,Gibraltar,Europe,Southern Europe,Gibraltar,38000,6.0,Gibraltar pound (GIP),English,UTC+01:00,False
+San Marino,Republic of San Marino,Europe,Southern Europe,City of San Marino,34132,61.0,euro (EUR),Italian,UTC+01:00,True
+Caribbean Netherlands,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,Kralendijk,31980,328.0,United States dollar (USD),"Dutch, English, Papiamento",UTC-04:00,False
+Saint Martin,Saint Martin,Americas,Caribbean,Marigot,31496,53.0,euro (EUR),French,UTC-04:00,False
+Åland Islands,Åland Islands,Europe,Northern Europe,Mariehamn,30654,1580.0,euro (EUR),Swedish,UTC+02:00,False
+Palau,Republic of Palau,Oceania,Micronesia,Ngerulmud,16733,459.0,United States dollar (USD),"English, Palauan",UTC+09:00,True
+Anguilla,Anguilla,Americas,Caribbean,The Valley,16010,91.0,Eastern Caribbean dollar (XCD),English,UTC-04:00,False
+Cook Islands,Cook Islands,Oceania,Polynesia,Avarua,15040,236.0,"Cook Islands dollar (CKD), New Zealand dollar (NZD)","Cook Islands Māori, English",UTC-10:00,False
+Nauru,Republic of Nauru,Oceania,Micronesia,Yaren,11680,21.0,Australian dollar (AUD),"English, Nauru",UTC+12:00,True
+Wallis and Futuna,Territory of the Wallis and Futuna Islands,Oceania,Polynesia,Mata-Utu,11620,142.0,CFP franc (XPF),French,UTC+12:00,False
+Tuvalu,Tuvalu,Oceania,Polynesia,Funafuti,10643,26.0,"Australian dollar (AUD), Tuvaluan dollar (TVD)","English, Tuvaluan",UTC+12:00,True
+Saint Barthélemy,Collectivity of Saint Barthélemy,Americas,Caribbean,Gustavia,10562,21.0,euro (EUR),French,UTC-04:00,False
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,Americas,North America,Saint-Pierre,5819,242.0,euro (EUR),French,UTC-03:00,False
+"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",Africa,Western Africa,Jamestown,5651,394.0,"Pound sterling (GBP), Saint Helena pound (SHP)",English,UTC+00:00,False
+Montserrat,Montserrat,Americas,Caribbean,Plymouth,4386,102.0,Eastern Caribbean dollar (XCD),English,UTC-04:00,False
+Falkland Islands,Falkland Islands,Americas,South America,Stanley,3662,12173.0,Falkland Islands pound (FKP),English,UTC-04:00,False
+Tokelau,Tokelau,Oceania,Polynesia,Fakaofo,2608,12.0,New Zealand dollar (NZD),"English, Samoan, Tokelauan",UTC+13:00,False
+Svalbard and Jan Mayen,Svalbard og Jan Mayen,Europe,Northern Europe,Longyearbyen,2530,61399.0,krone (NOK),Norwegian,UTC+01:00,False
+Norfolk Island,Territory of Norfolk Island,Oceania,Australia and New Zealand,Kingston,2188,36.0,Australian dollar (AUD),"English, Norfuk",UTC+11:30,False
+Christmas Island,Territory of Christmas Island,Oceania,Australia and New Zealand,Flying Fish Cove,1692,135.0,Australian dollar (AUD),English,UTC+07:00,False
+Niue,Niue,Oceania,Polynesia,Alofi,1681,260.0,New Zealand dollar (NZD),"English, Niuean",UTC-11:00,False
+Vatican City,Vatican City State,Europe,Southern Europe,Vatican City,882,0.49,euro (EUR),"Italian, Latin",UTC+01:00,True
+Cocos (Keeling) Islands,Territory of the Cocos (Keeling) Islands,Oceania,Australia and New Zealand,West Island,593,14.0,Australian dollar (AUD),English,UTC+06:30,False
+Pitcairn Islands,Pitcairn Group of Islands,Oceania,Polynesia,Adamstown,35,47.0,New Zealand dollar (NZD),English,UTC-08:00,False
+British Indian Ocean Territory,British Indian Ocean Territory,Africa,Eastern Africa,Diego Garcia,0,60.0,United States dollar (USD),English,UTC+06:00,False
+United States Minor Outlying Islands,United States Minor Outlying Islands,Americas,North America,Washington DC,0,34.2,United States dollar (USD),English,"UTC-11:00, UTC-10:00, UTC+12:00",False
